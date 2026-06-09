@@ -26,7 +26,7 @@
 
 ---
 
-## 📱 Demo Screenshots
+##  Demo Screenshots
 
 <div align="center">
   <table>
